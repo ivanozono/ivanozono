@@ -5,14 +5,14 @@
 🚀 **About Me**: Data is my canvas 🎨, algorithms my paintbrush 🖌️. Specializing in computer systems and fueled by an unrelenting curiosity for machine learning, I navigate through vast seas of data 🌊 to chart clear paths forward. My passion isn't just numbers; it's about the stories they tell 📖 and the solutions they reveal.
 
 🧠 **Experience & Achievements**:
-- **Mentor & Architect 🧩**: Guiding the next generation of developers in Full Stack tech and complex database design.
+- **Mentor  Data Architect 🧩**: Guiding the next generation of developers in Full Stack tech and complex database design.
 - **Innovative Educator 🎓**: Elevating technology and mathematics through adaptive resources and strategies.
 - **Accessibility Champion ♿**: Bridging gaps for students with hearing disabilities in IT engineering.
 - **Data Services Engineer 💼**: Utilizing data to optimize ATM operations and enhance customer satisfaction across Mexico.
 
 🎓 **Quick Education 🏫**:
 - Computer Systems Engineering 🖥️
-- Data Analyst Certification 📊
+- Data Analyst Bootcamp 📊
 - Backend Developer with JavaScript 💻
 
 🔧 **Skills That Drive Me 🛠️**:
