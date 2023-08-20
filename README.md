@@ -1,4 +1,4 @@
-👨‍💻 **Ivan Ozono | Computer Systems Engineer | Data Analyst | 🤖 Machine Learning Enthusiast**
+👨‍💻 **Ivan Ozono | Computer Systems Engineer | Data Analyst | 🤖 Machine Learning**
 
 📍 Tijuana BC, Mexico | 📞 +52 664 1680190 | 📧 sabel4008@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/ivan-ozono)
 
