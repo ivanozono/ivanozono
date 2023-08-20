@@ -21,13 +21,13 @@
 ---
 - 🌍 **Mapping Mortality: Global Insights from 2019**:
   
-        - 🎯 Objective: In-depth analysis of 2019 mortality data from the World Health Organization.
-        - 📊 Key Insights:
+   - 🎯 Objective: In-depth analysis of 2019 mortality data from the World Health Organization.
+   - 📊 Key Insights:
             - 🔍 Analyzed death distribution across countries, genders, and causes.
             - 🏥 Identified leading causes of death and explored specific conditions.
             - 💡 Provided targeted recommendations based on regional and gender variations.
-        - 🛠️ Tools: Python, pandas, matplotlib, seaborn, pycountry_convert, sklearn.
-        - 💼 Data Analyst Skills:
+    - 🛠️ Tools: Python, pandas, matplotlib, seaborn, pycountry_convert, sklearn.
+    - 💼 Data Analyst Skills:
             - 🧠 Critical thinking, 🔍 attention to detail, 📢 effective communication, 🧩 problem-solving, and 🔄 adaptability.
               
     🔗 Links:
@@ -38,16 +38,16 @@
 
 🌟 **Data Driven Functions: The Math behind Science**
 
-        - 🎯 **Objective**: Empower learners with a deep understanding of mathematical functions and their pivotal role in AI and data science.
-        - 📊 **Key Takeaways**:
+  - 🎯 **Objective**: Empower learners with a deep understanding of mathematical functions and their pivotal role in AI and data science.
+  - 📊 **Key Takeaways**:
             - 🧠 Dive into perceptrons and their significance in neural networks.
             - ❌ Master techniques to quantify and mitigate model errors.
             - 📈 Grasp the concepts of domain and range in mathematical functions.
-        - 🛠️ **Tools & Techniques**:
+  - 🛠️ **Tools & Techniques**:
             - **Software**: Google Colab, Python.
             - **Libraries**: Numpy for numerical operations, Matplotlib & Seaborn for visualization, Scikit-Learn for linear regression modeling.
             - **Concepts**: Function programming, lambda functions, map & filter operations, plotting functions, function manipulation, linear regression modeling, error calculation.
-        - 💼 **Data Analyst Skills**:
+  - 💼 **Data Analyst Skills**:
             - 🧠 Analytical and logical reasoning, 🔍 problem-solving, 🔄 adaptability, and 📢 effective communication.
             
  🔗 **Link**:
