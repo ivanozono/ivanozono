@@ -31,7 +31,7 @@
           
 🔗 Links:
 
-- [Explore the Jupyter Notebook Analysis](https://github.com/ivanozono/Mortality2019_DataAnalyst/blob/a74d63f91359388969592897446b94080b7c561d/Mortality_Data_Analysis.ipynb)
+- [Explore the Jupyter Notebook Analysis in GitHub](https://github.com/ivanozono/Mortality2019_DataAnalyst)
 - [Visualize the Analysis in Tableau](https://public.tableau.com/app/profile/ivan.ozono/viz/MortalityAnalysisVisualization2019/Dashboard1?publish=yes)
 
 
