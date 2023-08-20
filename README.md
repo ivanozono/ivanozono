@@ -20,6 +20,7 @@
 
 ---
 - 🌍 **Mapping Mortality: Global Insights from 2019**:
+  
         - 🎯 Objective: In-depth analysis of 2019 mortality data from the World Health Organization.
         - 📊 Key Insights:
             - 🔍 Analyzed death distribution across countries, genders, and causes.
@@ -36,6 +37,7 @@
 
 
 🌟 **Data Driven Functions: The Math behind Science**
+
         - 🎯 **Objective**: Empower learners with a deep understanding of mathematical functions and their pivotal role in AI and data science.
         - 📊 **Key Takeaways**:
             - 🧠 Dive into perceptrons and their significance in neural networks.
@@ -47,8 +49,10 @@
             - **Concepts**: Function programming, lambda functions, map & filter operations, plotting functions, function manipulation, linear regression modeling, error calculation.
         - 💼 **Data Analyst Skills**:
             - 🧠 Analytical and logical reasoning, 🔍 problem-solving, 🔄 adaptability, and 📢 effective communication.
-        - 🔗 **Link**:
-            - [Explore the Project on GitHub](https://github.com/ivanozono/MathFuncsDSciencieAI)
+            
+ 🔗 **Link**:
+  
+- [Explore the Project on GitHub](https://github.com/ivanozono/MathFuncsDSciencieAI)
 
  ---
 🎓 **Education 🏫**:
