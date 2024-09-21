@@ -49,7 +49,7 @@ Data is my canvas 🎨, algorithms my paintbrush 🖌️. Specializing in comput
 ## 🎓 Education
 - Computer Systems Engineering 🖥️
 - Data Analyst Bootcamp 📊
-- Backend Developer with JavaScript 💻
+- Backend Developer with Python 💻
 
 ---
 
@@ -61,4 +61,4 @@ Data is my canvas 🎨, algorithms my paintbrush 🖌️. Specializing in comput
 ---
 
 ## ✉️ Let's Connect
-Looking to transform data into actionable intelligence? Searching for innovation rooted in understanding? Let's explore opportunities to collaborate and innovate. Reach out, and let's make data come alive 🎉!
+Looking to transform data into actionable intelligence?  Let's explore opportunities to collaborate and innovate. Reach out, and let's make data come alive 🎉!
